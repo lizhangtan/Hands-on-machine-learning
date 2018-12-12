@@ -1,6 +1,14 @@
 # Hands-on-machine-learning
 book
-chapter1:
+
+Chapter1:
+Notes：
+1. model Vs instance learning:
+Instance learning: instead of performing explicit generalization, compares new problem instances with instances seen in training, which have been stored in memory. 
+Examples of instance-based learning algorithm are the k-nearest neighbor algorithm, kernel machines and RBF networks.
+
+2. Online Vs batch learning
+
 Exercises
 In this chapter we have covered some of the most important concepts in Machine Learning. In the next
 chapters we will dive deeper and write more code, but before we do, make sure you know how to answer
